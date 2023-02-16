@@ -1,0 +1,5 @@
+a:5:{s:8:"username";s:11:"litauszki16";s:5:"email";s:21:"litauszki16@gmail.com";s:8:"password";s:11:"Sajtoskukac";s:3:"sex";s:5:"ferfi";s:10:"birth-date";s:10:"2000-05-18";}
+a:5:{s:8:"username";s:12:"WitcherFan69";s:5:"email";s:21:"faszsetudja@gmail.com";s:8:"password";s:11:"valami12345";s:3:"sex";s:2:"no";s:10:"birth-date";s:10:"1999-12-02";}
+a:5:{s:8:"username";s:13:"GeraltofRivia";s:5:"email";s:15:"kukac@gmail.com";s:8:"password";s:11:"valami12345";s:3:"sex";s:5:"ferfi";s:10:"birth-date";s:10:"2000-05-18";}
+a:5:{s:8:"username";s:16:"Fojtólidérc420";s:5:"email";s:18:"valamijo@gmail.com";s:8:"password";s:11:"valami12345";s:3:"sex";s:5:"ferfi";s:10:"birth-date";s:10:"1992-03-11";}
+a:5:{s:8:"username";s:11:"szalaimarci";s:5:"email";s:26:"szalaimarcell100@gmail.com";s:8:"password";s:10:"proba12345";s:3:"sex";s:5:"ferfi";s:10:"birth-date";s:10:"2000-11-23";}
